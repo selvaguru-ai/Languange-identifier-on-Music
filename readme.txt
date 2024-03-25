@@ -1,5 +1,3 @@
-I would credit https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ (Valerio Velardo - The Sound of AI) youtube channel to help me build this project and https://www.appliedaicourse.com/ which according to me is a Bible that introduced me to the world of Machine Learning.
-
 This simple model I have developed identifies what language the song is in by using simple audio signal processing techniques combined with a Multi-layer perceptron network.
 For simplicity this is a binary classification that identifies whether a song is in English or Tamil this can be further extended to classify other languages also if trained with datasets accordingly.
 
